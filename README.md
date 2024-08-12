@@ -34,7 +34,7 @@ Step-by-step instructions on how to install and set up your project:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Vafakos/PlantSync
     ```
 2. Open the project in Unity:
     - Open Unity Hub
